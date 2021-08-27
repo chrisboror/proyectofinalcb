@@ -53,6 +53,16 @@
         </div>
   </div>
 
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <table class="table table-hover">
+            <thead>
+                <tr class="table-dark">
+                    <td>PBX:40321781         DIRECCION:FUENTES DEL VALLE 1,ZONA 7, SAN MIGUEL PETAPA</td>
+                    <td>CARNET:2019-40079   NOMBRE:CHRISTOPHER BOROR</td>
+                </tr>
+            </tbody>
+        </table>
+
 
 
 

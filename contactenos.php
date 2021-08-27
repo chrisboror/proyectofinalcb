@@ -18,7 +18,7 @@
         <a href="index.html" class="btn btn-dark">Inicio</a>
         <a href="tiendas.php" class="btn btn-dark">Tiendas</a>
         <a href="contactenos.php" class="btn btn-dark">Contactenos</a>
-        <a href="vermensajes.php" class="btn btn-dark">Ver Mensajes</a>
+        <a href="iniciarsesion.php" class="btn btn-dark">Ver Mensajes</a>
         </div>
     </div>
     <br><br>
